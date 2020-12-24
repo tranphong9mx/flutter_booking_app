@@ -1,6 +1,7 @@
 # flutter_booking_app
 
 A new Flutter project.
+<img src="https://www.uplabs.com/logos/uplabs/default--color.svg" width="100" >
 
 ## Getting Started
 
