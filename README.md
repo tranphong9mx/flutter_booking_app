@@ -2,7 +2,7 @@
 
 ## About
 This is booking app that covered UX/UI was designed by [Hananda Ilham Z](https://www.uplabs.com/hanandazhd) on [<img src="https://www.uplabs.com/logos/uplabs/default--color.svg" width="80" >](https://uplabs.com) <br /><br />
-[<img src="https://github.com/tranphong9mx/image_storing/blob/main/01_booking_app_thumbnail.png?raw=true" width="720" >](https://www.uplabs.com/posts/booking-app-1d34f565-5705-4f7d-bd8f-04adcb199a1f)
+[<img src="https://github.com/tranphong9mx/image_storing/blob/main/01_booking_app/01_booking_app_thumbnail.png?raw=true" width="720" >](https://www.uplabs.com/posts/booking-app-1d34f565-5705-4f7d-bd8f-04adcb199a1f)
 ## Layouts
 ### Sign-In Screen
 ✨ (First Screen) ✨<br />
@@ -37,7 +37,7 @@ This is booking app that covered UX/UI was designed by [Hananda Ilham Z](https:/
 - Button "Book My Room" (Can't interactive)
 
 ## Demo
-[![Flutter Booking App](https://github.com/tranphong9mx/image_storing/blob/main/01_booking_app.gif?raw=true)](http://www.youtube.com/watch?v=YjTZdafdzGw)
+[![Flutter Booking App](https://github.com/tranphong9mx/image_storing/blob/main/01_booking_app/01_booking_app.gif?raw=true)](http://www.youtube.com/watch?v=YjTZdafdzGw)
 
 ## Thank you
 
